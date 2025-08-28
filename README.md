@@ -9,11 +9,8 @@
 
 ---
 
-### 🔭 Currently Working On  
-- [India's Heritage Revival (Java Project)](http://front1-deployment-latest.onrender.com)  
-
 ### 🌱 Currently Learning  
-- **Java (Core + Advanced)**  
+- **Java (Core + Advanced)**
 
 ### 📫 How to reach me  
 - **Email:** sapnasahu32000@gmail.com  
